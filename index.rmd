@@ -1,0 +1,23 @@
+---
+title: 'Exploratory Analysis : Project Assignment 1'
+author: "Elise VI NHU BA"
+date: "24 janvier 2016"
+output: pdf_document
+---
+
+## 1. Plot 1 produce by plot1.R
+
+![Plot 1 produce by plot1.R ](plot1.png)
+
+## 2. Plot 2 produce by plot2.R
+
+![Plot 2 produce by plot2.R](plot2.png)
+
+## 3. Plot 3 produce by plot3.R
+
+![Plot 3 produce by plot3.R](plot3.png)
+
+
+## 4. Plot 4 produce by plot4.R
+
+![Plot 4 produce by plot4.R](plot4.png)
